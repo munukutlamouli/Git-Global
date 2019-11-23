@@ -1,0 +1,2 @@
+# Git-Global
+Globa;l
